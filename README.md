@@ -70,3 +70,9 @@ Predicted Sarcasm Probability: 98.55%
 
 Sentence: "game of thrones season finale showing this sunday night"
 Predicted Sarcasm Probability: 4.87%
+```
+Running in action:
+
+<div align="center"> <img width="1619" alt="Screenshot 2025-06-04 at 22 04 05" src="https://github.com/user-attachments/assets/611af59d-3e7e-4e58-81a1-256e36eb8bda" /> </div>
+
+
