@@ -58,15 +58,13 @@ The model is created using `tf.keras.Sequential()` with the following layers:
 ## 🧠 Example Prediction
 
 ```python
-
-Input:
-
+# Input:
 test_sentences = [
     "granny starting to fear spiders in the garden might be real haha crazy",
     "game of thrones season finale showing this sunday night"
 ]
 
-Output:
+# Output:
 Sentence: "granny starting to fear spiders in the garden might be real haha crazy"
 Predicted Sarcasm Probability: 89.23%
 
