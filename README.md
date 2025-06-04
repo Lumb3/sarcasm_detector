@@ -66,7 +66,7 @@ test_sentences = [
 
 # Output:
 Sentence: "granny starting to fear spiders in the garden might be real haha crazy"
-Predicted Sarcasm Probability: 89.23%
+Predicted Sarcasm Probability: 98.55%
 
 Sentence: "game of thrones season finale showing this sunday night"
-Predicted Sarcasm Probability: 13.56%
+Predicted Sarcasm Probability: 4.87%
