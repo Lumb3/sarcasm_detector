@@ -1,3 +1,7 @@
+# Author: Erkhembileg Ariunbold
+# Project: Sarcasm detector
+# Date: 2025.06.01
+
 import json
 import tensorflow as tf
 from tensorflow.keras.preprocessing.sequence import pad_sequences
